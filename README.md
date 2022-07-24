@@ -64,5 +64,5 @@ A solo project executed in 2 days.No External Libraries has been used.
 ## Author 😇
 
 
-- 👤 [Biswaranjan](https://www.github.com/icyflame21)
+- 👤 [Sashank](https://github.com/kalakamcherisashank)
 
